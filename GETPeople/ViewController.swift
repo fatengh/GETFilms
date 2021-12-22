@@ -8,8 +8,6 @@
 import UIKit
 
 
-
-
 class ViewController: UITableViewController {
     
 var pepole = [String]()
